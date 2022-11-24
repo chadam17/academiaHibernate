@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xml><instituto><Alumno><cod>1</cod><nombre>Luis</nombre><edad>13</edad><curso>2</curso></Alumno><Asignatura><cod>3</cod><nombre>Bases de datos</nombre><profesores>[Profesor{cod=0, nombre='Sandra', edad=0}, Profesor{cod=0, nombre='Paco', edad=0}]</profesores></Asignatura></instituto></xml>

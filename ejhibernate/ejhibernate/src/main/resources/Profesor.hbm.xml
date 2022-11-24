@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="com.dam2.ejhibernate.Profesor">
+        <id name="cod" type="integer"/>
+        <property name="nombre" type="java.lang.String"/>
+        <property name="edad" type="int"/>
+        <!-- <component name="asignaturas" class="com.dam2.ejhibernate.Asignatura"></component> -->
+    </class>
+</hibernate-mapping>
